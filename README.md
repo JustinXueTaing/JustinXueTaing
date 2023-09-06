@@ -1,7 +1,14 @@
 ### Hi there 👋
+### - 🔭 I’m currently working on my Website for COMPE 561
+- 🌱 I’m currently learning How to build a website
+- 👯 I’m looking to collaborate on Firmware projects
+- 🤔 I’m looking for help with finding a job post grad or fall internships
+- 📫 How to reach me: [...](https://www.linkedin.com/in/justin-xue-taing/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My future LC500 is a bad financial move
 
 <!--
-**JustinXueTaing/JustinXueTaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JustinXueTaing/JustinXueTaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
